@@ -7,7 +7,7 @@ hero:
   text: "Dokumentasi Tema & Konten"
   tagline: Panduan lengkap untuk admin web dalam mengelola konten dan mengubah tampilan tema Alabidin-School di Ghost CMS.
   image:
-    src: /gambar/logo-tema-ghost-alabidin-school.webp
+    src: /gambar/logo-tema-ghost-alabidin-school.png
     alt: Logo Tema
   actions:
     - theme: brand

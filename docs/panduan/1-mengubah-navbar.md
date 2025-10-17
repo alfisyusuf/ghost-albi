@@ -2,6 +2,10 @@
 
 Navbar adalah bagian paling atas dari website Anda. Di sini, kita akan membahas cara mengubah elemen-elemen identitas utama situs, seperti nama, tagline, dan logo yang muncul di navbar.
 
+    ![Navbar](/gambar/navbar.png)
+
+    ![Tampilan dashboard admin Ghost dengan tombol Settings dilingkari](/gambar/ghost-dashboard-settings.png)
+
 ## Mengubah Nama & Tagline Website
 
 Ini adalah identitas utama website Anda yang akan muncul di tab browser dan hasil pencarian Google. Ikuti langkah-langkah berikut:

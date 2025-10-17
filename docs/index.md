@@ -12,10 +12,10 @@ hero:
   actions:
     - theme: brand
       text: Panduan Konten
-      link: /panduan/membuat-postingan-baru
+      link: /panduan/1-mengubah-navbar
     - theme: alt
       text: Kustomisasi Tema
-      link: /panduan/mengubah-logo
+      link: /panduan/1-mengubah-navbar
 
 features:
   - icon: ✍️

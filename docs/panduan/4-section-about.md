@@ -20,8 +20,12 @@ Seluruh bagian ini dikontrol melalui satu halaman khusus di dalam menu **Pages**
 Bagian utama seperti gambar, judul, dan paragraf deskripsi dapat diubah dengan mudah.
 
 1.  **Mengubah Gambar**: Klik pada gambar utama di bagian atas editor (`Featured Image`) untuk menggantinya dengan gambar baru.
-2.  **Mengubah Judul & Tagline**: Klik pada kartu judul di bawah gambar untuk mengubah teks judul utama ("About Section") dan tagline-nya.
-3.  **Mengubah Paragraf Deskripsi**: Buka panel **Settings** (ikon gerigi di pojok kanan atas), lalu isi atau ubah teks di dalam kolom **Excerpt**. Teks inilah yang akan muncul sebagai paragraf utama di halaman depan.
+2.  **Mengubah Judul Utama**: Klik pada kartu judul di bawah gambar untuk mengubah teks judul utama (contohnya dari "About Section" menjadi "Tentang Sekolah Kami").
+3.  **Mengubah Paragraf & URL**: Buka panel **Settings** (ikon gerigi di pojok kanan atas).
+    * **PENTING**: ⚠️ Jangan pernah mengubah isi dari **Page URL**. Tema ini secara khusus memanggil halaman dengan URL `about-section` untuk ditampilkan di halaman depan. Mengubahnya akan menyebabkan section ini hilang.
+    * Isi atau ubah teks di dalam kolom **Excerpt**. Teks inilah yang akan muncul sebagai paragraf deskripsi utama di halaman depan.
+
+    ![Pengaturan Halaman About Section](/gambar/section-about-settings.png)
 
 ---
 

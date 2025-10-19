@@ -3,28 +3,28 @@
 layout: home
 
 hero:
-  name: "Alabidin-School"
-  text: "Dokumentasi Tema & Konten"
-  tagline: Panduan lengkap untuk admin web dalam mengelola konten dan mengubah tampilan tema Alabidin-School di Ghost CMS.
+  name: "Alabidin-School Theme"
+  text: "Dokumentasi & Panduan Pengguna"
+  tagline: Semua yang perlu Anda ketahui untuk mengelola konten dan mengubah tampilan website sekolah Anda menggunakan tema Ghost Alabidin-School.
   image:
     src: /gambar/logo-tema-ghost-alabidin-school.png
     alt: Logo Tema
   actions:
     - theme: brand
-      text: Panduan Konten
+      text: Mulai Membaca Panduan
       link: /panduan/1-mengubah-navbar
     - theme: alt
-      text: Kustomisasi Tema
-      link: /panduan/1-mengubah-navbar
+      text: Panduan Resmi Ghost
+      link: /panduan/9-panduan-resmi-ghost
 
 features:
-  - icon: ✍️
-    title: Manajemen Konten
-    details: Pelajari cara membuat, mengedit, dan menerbitkan postingan berita, serta mengelola tag dan penulis.
   - icon: 🎨
-    title: Kustomisasi Tampilan
-    details: Ubah logo, atur menu navigasi, dan sesuaikan elemen lain agar website sesuai dengan identitas sekolah.
-  - icon: ⚙️
-    title: Pengaturan Teknis
-    details: Panduan untuk integrasi, pengaturan anggota (members), dan optimasi SEO dasar yang sudah disediakan oleh tema.
+    title: Kustomisasi Tampilan Utama
+    details: Ubah elemen penting seperti navbar, footer, logo, dan informasi kontak agar sesuai dengan identitas sekolah Anda.
+  - icon: ✍️
+    title: Manajemen Konten Halaman Depan
+    details: Kelola semua bagian dinamis di halaman depan, mulai dari slider hero, section testimoni, hingga sambutan kepala sekolah.
+  - icon: 🚀
+    title: Publikasi & Panduan Lanjutan
+    details: Pelajari cara menerbitkan berita, mengelola tags, dan manfaatkan panduan resmi dari Ghost untuk fitur yang lebih canggih.
 ---

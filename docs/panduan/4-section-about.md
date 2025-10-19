@@ -13,8 +13,6 @@ Seluruh bagian ini dikontrol melalui satu halaman khusus di dalam menu **Pages**
 
     ![Editor Halaman About Section](/gambar/section-about-editor-utama.png)
 
----
-
 ## Mengubah Komponen Utama
 
 Bagian utama seperti gambar, judul, dan paragraf deskripsi dapat diubah dengan mudah.
@@ -23,13 +21,13 @@ Bagian utama seperti gambar, judul, dan paragraf deskripsi dapat diubah dengan m
 2.  **Mengubah Judul Utama**: Klik pada kartu judul di bawah gambar untuk mengubah teks judul utama (contohnya dari "About Section" menjadi "Tentang Sekolah Kami").
 3.  **Mengubah Paragraf & URL**: Buka panel **Settings** (ikon gerigi di pojok kanan atas).
     * **PENTING**: ⚠️ Jangan pernah mengubah isi dari **Page URL**. Tema ini secara khusus memanggil halaman dengan URL `about-section` untuk ditampilkan di halaman depan. Mengubahnya akan menyebabkan section ini hilang.
-    * Isi atau ubah teks di dalam kolom **Excerpt**. Teks inilah yang akan muncul sebagai paragraf deskripsi utama di halaman depan.
 
     ![Pengaturan Halaman About Section](/gambar/section-about-settings.png)
 
+    * Isi atau ubah teks di dalam kolom **Excerpt**. Teks inilah yang akan muncul sebagai paragraf deskripsi utama di halaman depan.
+
     ![Section About Excerpt](/gambar/section-about-excerpt.png)
 
----
 
 ## Mengubah Tiga Poin Keunggulan & Tombol
 
@@ -108,6 +106,4 @@ Jika Anda tidak sengaja menghapus kode di dalam blok JavaScript, Anda bisa menya
 Setelah selesai melakukan semua perubahan, klik tombol **Update** di pojok kanan atas, atau tekan `Ctrl + S` di keyboard Anda.
 
 Selesai! Section "Tentang Kami" di halaman depan Anda telah berhasil diperbarui.
-
----
 

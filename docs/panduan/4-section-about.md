@@ -27,6 +27,8 @@ Bagian utama seperti gambar, judul, dan paragraf deskripsi dapat diubah dengan m
 
     ![Pengaturan Halaman About Section](/gambar/section-about-settings.png)
 
+    ![Section About Excerpt](/gambar/section-about-excerpt.png)
+
 ---
 
 ## Mengubah Tiga Poin Keunggulan & Tombol

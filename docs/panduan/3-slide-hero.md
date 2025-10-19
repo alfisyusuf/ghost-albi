@@ -3,6 +3,7 @@
 Bagian "Hero" adalah slider gambar besar yang pertama kali dilihat pengunjung di halaman depan website Anda. Tema ini mendukung hingga 4 slide yang bisa Anda kustomisasi.
 
 ![Contoh Slide 1 di Halaman Depan](/gambar/slide-hero-hasil-1.png)
+
 ![Contoh Slide 2 di Halaman Depan](/gambar/slide-hero-hasil-2.png)
 
 Semua slide ini dikontrol melalui **Pages** di dalam dashboard Ghost.
@@ -43,7 +44,7 @@ Pengaturan ini tidak diubah di editor utama, melainkan di panel pengaturan halam
 3.  Isi konten untuk mengubah **subtitel** atau deskripsi singkat yang muncul di bawah judul utama.
 
     ![Slide Subtitel](/gambar/slide-subtitel.png)
-    
+
 4.  Klik pada **Meta data** untuk membuka pengaturan judul dan tombol.
 
     ![Panel Pengaturan Halaman](/gambar/slide-hero-settings-panel.png)

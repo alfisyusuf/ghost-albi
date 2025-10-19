@@ -30,6 +30,12 @@ export default defineConfig({
             { text: '7. Mengelola Testimoni', link: '/panduan/7-mengelola-testimoni' },
             { text: '8. Section Sambutan', link: '/panduan/8-section-sambutan' }
           ]
+        },
+        {
+          text: 'Panduan Lanjutan (Resmi)',
+          items: [
+            { text: '9. Panduan Resmi Ghost', link: '/panduan/9-panduan-resmi-ghost' }
+          ]
         }
       ]
     },

@@ -9,7 +9,9 @@ Semua pengaturan untuk footer dapat diakses dari satu tempat terpusat di dalam d
 ## Akses Menu Kustomisasi Tema
 
 1.  Dari dashboard admin Ghost, klik ikon **gerigi (Settings)** di pojok kiri bawah.
+    ![Klik ikon gerigi](/gambar/ghost-dashboard-settings.png)
 2.  Gulir ke bawah hingga menemukan bagian **Site**. Klik tombol **Customize** di sebelah opsi "Design & branding".
+    ![site design & branding](/gambar/ghost-settings-design.png)
 3.  Di halaman kustomisasi, Anda akan melihat dua tab di bagian atas panel kiri: `Brand` dan `Theme`. Pastikan Anda mengklik tab **Theme**.
 
     ![Panel Kustomisasi dengan Tab Theme](/gambar/ghost-theme-settings-1.png)

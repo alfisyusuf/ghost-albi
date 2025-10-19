@@ -41,7 +41,7 @@ Setiap kartu keunggulan (ada 3) dikontrol oleh halamannya sendiri-sendiri: **Fit
 Setelah membuka halaman "Fitur", Anda bisa mengubah kontennya:
 
 1.  **Judul Kartu**: Teks yang Anda tulis di editor utama akan menjadi **judul kartu** (contoh: "Global & Future Skills").
-2.  **Ikon, Deskripsi & Poin-Poin**: Buka panel **Settings** (ikon gerigi) dan klik **Meta data**. Seluruh konten detail kartu, termasuk ikonnya, ada di dalam **Meta description** dalam format kode JSON.
+2.  **Ikon, Deskripsi & Poin-Poin**: Buka panel **Settings** (ikon side panel) dan klik **Meta data**. Seluruh konten detail kartu, termasuk ikonnya, ada di dalam **Meta description** dalam format kode JSON.
 
     ![Editor Meta Data untuk Kartu Fitur](/gambar/feature-card-metadata.png)
 

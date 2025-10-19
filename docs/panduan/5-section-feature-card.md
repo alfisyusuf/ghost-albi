@@ -40,17 +40,12 @@ Setiap kartu keunggulan (ada 3) dikontrol oleh halamannya sendiri-sendiri: **Fit
 
 Setelah membuka halaman "Fitur", Anda bisa mengubah kontennya:
 
-1.  **Judul & Ikon Kartu**:  
-    Teks yang Anda tulis di editor utama akan menjadi **judul kartu** (contoh: "Global & Future Skills").  
-    Untuk mengubah ikon, klik **Add feature image** dan unggah gambar ikon yang baru.
-
-2.  **Deskripsi & Poin-Poin**:  
-    Buka panel **Settings** (ikon gerigi) dan klik **Meta data**.  
-    Seluruh konten detail kartu ada di dalam **Meta description** dalam format kode JSON.
+1.  **Judul Kartu**: Teks yang Anda tulis di editor utama akan menjadi **judul kartu** (contoh: "Global & Future Skills").
+2.  **Ikon, Deskripsi & Poin-Poin**: Buka panel **Settings** (ikon gerigi) dan klik **Meta data**. Seluruh konten detail kartu, termasuk ikonnya, ada di dalam **Meta description** dalam format kode JSON.
 
     ![Editor Meta Data untuk Kartu Fitur](/gambar/feature-card-metadata.png)
 
-    * `icon`: Kelas ikon dari Font Awesome (contoh: `"fas fa-globe"`).
+    * `icon`: **Ini adalah kelas ikon dari Font Awesome**. Untuk mencari ikon lain, kunjungi situs [Font Awesome (Solid, Free)](https://fontawesome.com/search?m=free&s=solid). Cari ikon yang Anda suka, klik, lalu salin kelasnya (contoh: `fas fa-globe`, `fas fa-book`, `fas fa-school`).
     * `bgColor`: Warna latar belakang untuk lingkaran ikon (contoh: `"bg-yellow-600"`).
     * `desc`: Paragraf deskripsi utama untuk kartu tersebut.
     * `points`: Daftar poin-poin keunggulan yang akan ditampilkan dengan tanda centang. Setiap poin diapit oleh tanda kutip ganda.
